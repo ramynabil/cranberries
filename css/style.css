@@ -1,0 +1,38 @@
+/* Place under the bootstrap css link in index. */
+body{
+	background-color: rgb(0,124,175);	/*BLUE COLOR*/
+	/*background-color: #42f495;*/
+	background-color: rgb(180, 56, 100);
+	/*padding-top: 60px;*/
+	padding: 60px;
+	
+}
+
+/* Custom Classes */
+
+.img-center{
+	margin:						auto;
+	display: 					block;
+	width: 						90%;
+	margin-bottom: 		10px;
+}
+.border-custom-solid{
+	border: 					10px solid;
+	border-radius: 		15px;	
+}
+
+.cranberry{
+	color: 						rgb(180, 56, 100);
+	border-color: 		rgb(180, 56, 100);
+}
+
+.well{
+	padding-bottom: 	0px;
+}
+
+.well-padding-top-0{
+	padding-top: 			0px;
+}
+.nested-well{
+	background-color:	#d5d5d5;
+}
