@@ -42,3 +42,7 @@ body{
 .show-border{
 	border: 1px solid;
 }
+/*include in p element of Album's name to bring closer to thumbnail*/
+.albumname{
+	margin-top: -10px
+}
