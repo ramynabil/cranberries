@@ -9,8 +9,12 @@ body{
 }
 iframe{
 	margin: auto;
-	max-width: 100%
+	max-width: 100%;
+	display: block;
 }
+
+
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="col-"] {
