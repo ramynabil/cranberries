@@ -13,7 +13,7 @@ body{
 .img-center{
 	margin:						auto;
 	display: 					block;
-	width: 						90%;
+	max-width:		 		90%;
 	margin-bottom: 		10px;
 }
 .border-custom-solid{
@@ -34,5 +34,11 @@ body{
 	padding-top: 			0px;
 }
 .nested-well{
-	background-color:	#d5d5d5;
+	background-color:	#e8e8e8;
+}
+.nested-nested-well{
+	background-color: #eee;		/*Make Blue*/
+}
+.show-border{
+	border: 1px solid;
 }
