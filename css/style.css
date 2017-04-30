@@ -4,12 +4,15 @@ body{
 	/*background-color: #42f495;*/
 	background-color: rgb(180, 56, 100);
 	/*padding-top: 60px;*/
-	padding: 2%;
+	padding: 5%;
 	
 }
 iframe{
 	margin: auto;
 	max-width: 100%
+}
+body{
+	font-size: 1.5vw;
 }
 
 /* Custom Classes */
